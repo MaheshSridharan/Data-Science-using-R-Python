@@ -8,4 +8,4 @@ This section of GitHub space hosts my learning, experiments, and projects in the
  -  Data Wrangling
  -  Data Visualization
 
-## [Back to Home](https://maheshsridharan.github.io/home/) 
+## [Back to Home](https://maheshsridharan.github.io/Home/) 
