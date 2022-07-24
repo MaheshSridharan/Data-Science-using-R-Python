@@ -41,4 +41,4 @@ p <- ggplot(data = gapminder,
 p + geom_point()
 ```
 
-![](DataViz-using-R_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](DataViz-using-R_files/unnamed-chunk-2-1.png)
